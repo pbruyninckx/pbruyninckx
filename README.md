@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pbruyninckx
-- 💷 For my day job I program in C++, although soon there'll be some dashes of rust
+- 💷 For my day job I program in Python, and I've done plenty of C++ in the past
 - 👀 I’m interested in functional programming
-- 🌱 I’m currently learning clojure
-- 💞️ I’m looking to collaborate on an accountability project written in clojure(script)
+- 🌱 I’m currently learning clojure and rust
 - 📫 How to reach me ...
 
 <!---
